@@ -1,6 +1,6 @@
 #!/Users/fouad/AppData/Local/Programs/Python
 import os, sys
-print("version 5")
+print("version 11")
 
 # these three dictionaries store the translations of the 3 parts
 # of a c-instruction
